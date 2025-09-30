@@ -1,5 +1,5 @@
-<p align="center">
-  <img src=https://capsule-render.vercel.app/api?type=venom&height=300&color=0:b4d49d,100:9dd4c4&text=hi!&animation=blink&textBg=false&fontColor=f2fffb&fontSize=60/>
+<<img width="1337" height="501" alt="github-header-banner" src="https://github.com/user-attachments/assets/23936188-b2af-493f-827c-bae3c0f06c96" />
+
 <p align="center">
   <h2>Feel free to connect with me :)</h2>
 </p>
