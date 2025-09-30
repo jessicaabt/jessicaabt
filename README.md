@@ -17,13 +17,12 @@
 ```yaml
 name = Jessica Abt
 
-school = 
-"University of Texas at Austin"
+school: "University of Texas at Austin"
 major: "Neuroscience"
-certificate = "Programming and Computation"
+certificate: "Programming and Computation"
 
-fieldsOfInterest = ["Computational Neuroscience", "Neurodevelopment", "Mental Health Awareness", "Game Development"]
+fieldsOfInterest: ["Computational Neuroscience", "Neurodevelopment", "Mental Health Awareness", "Game Development"]
 
-hobbyHiking = "Give me National and TX State Park Recs!"
-hobbyPhotography = "Check out jessicaabtphotography.com"
-hobbyEntertainment = "I loooveee Minecraft, Criminal Minds, and long Youtube videos!"
+hobbyHiking: "Give me National and TX State Park Recs!"
+hobbyPhotography: "Check out jessicaabtphotography.com"
+hobbyEntertainment: "I loooveee Minecraft, Criminal Minds, and long Youtube videos!"
