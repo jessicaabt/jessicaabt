@@ -17,8 +17,9 @@
 ```yaml
 name = Jessica Abt
 
-school = "University of Texas at Austin"
-major = "Neuroscience"
+school = 
+"University of Texas at Austin"
+major: "Neuroscience"
 certificate = "Programming and Computation"
 
 fieldsOfInterest = ["Computational Neuroscience", "Neurodevelopment", "Mental Health Awareness", "Game Development"]
