@@ -15,25 +15,14 @@
 
 ## A Little About Me and My Interests
 ```yaml
-name: Jessica Abt
-education:
-  [
-    "school: University of Texas at Austin",
-    "major: Neuroscience",
-    "certificate: Programming and Computation",
-  ]
+name = Jessica Abt
 
-fields_of_interest:
-  [
-    "Computational Neuroscience",
-    "Neurodevelopment",
-    "Mental Health Awareness",
-    "Game Development",
-  ]
+school = "University of Texas at Austin"
+major = "Neuroscience"
+certificate = "Programming and Computation"
 
-hobbies:
-  [
-    "Hiking - give me National and TX State Park Recs!",
-    "Photography - check out jessicaabtphotography.com",
-    "Gaming + Media Entertainment",
-  ]
+fieldsOfInterest = ["Computational Neuroscience", "Neurodevelopment", "Mental Health Awareness", "Game Development"]
+
+hobbyHiking = "Give me National and TX State Park Recs!"
+hobbyPhotography = "Check out jessicaabtphotography.com"
+hobbyEntertainment = "I loooveee Minecraft, Criminal Minds, and long Youtube videos!"
