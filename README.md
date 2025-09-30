@@ -1,7 +1,7 @@
 <p align="center">
   <img src=https://capsule-render.vercel.app/api?type=venom&height=300&color=0:b4d49d,100:9dd4c4&text=hi!&animation=blink&textBg=false&fontColor=f2fffb&fontSize=60/>
 <p align="center">
-  <b>Feel free to connect with me :)</b>
+  <h2>Feel free to connect with me :)</h2>
 </p>
 </p>
 <p align="center">
@@ -12,3 +12,28 @@
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
   </a>
 </p>
+
+## A Little About Me and My Interests
+```yaml
+name: Jessica Abt
+education:
+  [
+    "school: University of Texas at Austin",
+    "major: Neuroscience",
+    "certificate: Programming and Computation",
+  ]
+
+fields_of_interest:
+  [
+    "Computational Neuroscience",
+    "Neurodevelopment",
+    "Mental Health Awareness",
+    "Game Development",
+  ]
+
+hobbies:
+  [
+    "Hiking - give me National and TX State Park Recs!",
+    "Photography - check out jessicaabtphotography.com",
+    "Gaming + Media Entertainment",
+  ]
