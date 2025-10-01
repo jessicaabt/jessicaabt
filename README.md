@@ -29,6 +29,13 @@ school: "University of Texas at Austin"
 major: "Neuroscience"
 certificate: "Programming and Computation"
 
+currLanguages:
+  {
+    "Java":7,
+    "Python":5,
+  }
+  # scaled 0 (beginner) - 10 (master)
+
 fieldsOfInterest:
   [
     "Computational Neuroscience 💻",
