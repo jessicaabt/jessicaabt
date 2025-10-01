@@ -1,7 +1,7 @@
 <<img width="1337" height="501" alt="github-header-banner" src="https://github.com/user-attachments/assets/23936188-b2af-493f-827c-bae3c0f06c96" />
 
 <p align="center">
-  <h2>Feel free to connect with me </h2>
+  <h2>────── ⋆⋅☆⋅⋆ CONNECT WITH ME ⋆⋅☆⋅⋆ ──────</h2>
 </p>
 </p>
 <p align="center">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## ALL ABOUT ME
+##────── ⋆⋅☆⋅⋆ ALL ABOUT ME ⋆⋅☆⋅⋆ ──────
 ```yaml
 name: Jessica Abt
 
