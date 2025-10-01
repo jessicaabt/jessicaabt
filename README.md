@@ -6,10 +6,10 @@
 </p>
 <p align="center">
   <a href="https://www.instagram.com/jessica.abtt/">
-    <img width="64" height="64" alt="1856379_circled_instagram_media_network_social_icon" src="https://github.com/user-attachments/assets/2dbdfd83-b4de-4443-a6ca-2862f49ecad3" />
+    <img width="32" height="32" alt="1856379-32" src="https://github.com/user-attachments/assets/c21f9551-c141-4b10-8ff5-3640466624eb" />
 </a>
   <a href="https://www.linkedin.com/in/jessicaabt/">
-    <img width="64" height="64" alt="1856391_circled_linked in_linkedin_media_network_icon" src="https://github.com/user-attachments/assets/ae14973a-15d5-42cd-9009-54c12e7d7cc9" />
+    <img width="32" height="32" alt="1856391-32" src="https://github.com/user-attachments/assets/42b4e38d-e870-4262-9f43-1bbbb079b66c" />
   </a>
 </p>
 <p align="center">
