@@ -41,7 +41,7 @@ fieldsOfInterest:
     "Computational Neuroscience 💻",
     "Neurodevelopment 🧠",
     "Mental Health Awareness 💌",
-    "Game Development 🎮"
+    "Game Development 🎮",
   ]
 
 hobbies:
