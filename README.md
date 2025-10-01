@@ -4,14 +4,17 @@
   <h2> ────── ⋆⋅☆⋅⋆ CONNECT WITH ME </h2>
 </p>
 </p>
-<p align="center">
-  <a href="https://www.instagram.com/jessica.abtt/">
+<p align="center" style="display: flex; justify-content: center; gap: 15px;">
+  <a href="https://www.instagram.com/jessica.abtt/" style="text-decoration: none;">
     <img width="64" height="64" alt="Instagram icon" src="https://github.com/user-attachments/assets/7089eaa4-9d75-442e-9bd4-f3177e1b5b9e" />
-  <a href="https://www.pinterest.com/jesiscaabtt/">
-    <img width="64" height="64" alt="1856382-256" src="https://github.com/user-attachments/assets/1fe61751-326d-4edb-8e2d-ee94d42bfc6d" />
-  <a href="https://x.com/jessicaabt">
-    <img width="64" height="64" alt="1856389-256" src="https://github.com/user-attachments/assets/a583c25b-2434-4868-9476-4f269ce2b7d3" />
-  <a href="https://www.linkedin.com/in/jessicaabt/">
+  </a>
+  <a href="https://www.pinterest.com/jesiscaabtt/" style="text-decoration: none;">
+    <img width="64" height="64" alt="Pinterest icon" src="https://github.com/user-attachments/assets/1fe61751-326d-4edb-8e2d-ee94d42bfc6d" />
+  </a>
+  <a href="https://x.com/jessicaabt" style="text-decoration: none;">
+    <img width="64" height="64" alt="Twitter/X icon" src="https://github.com/user-attachments/assets/a583c25b-2434-4868-9476-4f269ce2b7d3" />
+  </a>
+  <a href="https://www.linkedin.com/in/jessicaabt/" style="text-decoration: none;">
     <img width="64" height="64" alt="LinkedIn icon" src="https://github.com/user-attachments/assets/2e011bd9-b134-4178-a9a9-cdfb1b829eb2" />
   </a>
 </p>
