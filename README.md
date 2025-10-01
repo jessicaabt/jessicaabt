@@ -1,4 +1,4 @@
-<<img width="1237" height="401" alt="github-header-banner" src="https://github.com/user-attachments/assets/23936188-b2af-493f-827c-bae3c0f06c96" />
+<<img width="1037" height="201" alt="github-header-banner" src="https://github.com/user-attachments/assets/23936188-b2af-493f-827c-bae3c0f06c96" />
 
 <p align="center">
   <h2> ────── ⋆⋅☆⋅⋆ CONNECT WITH ME </h2>
