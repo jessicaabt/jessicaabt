@@ -51,5 +51,3 @@ hobbies:
     photography: "Check out jessicaabtphotography.com! 📸"
     entertainment: "I loooveee Minecraft, Criminal Minds, and long Youtube videos! 🎞️"
   ]
-```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaabt&hide=javascript,css,scss,html&theme=apprentice)
