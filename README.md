@@ -1,7 +1,7 @@
 <<img width="1337" height="501" alt="github-header-banner" src="https://github.com/user-attachments/assets/23936188-b2af-493f-827c-bae3c0f06c96" />
 
 <p align="center">
-  <h2>Feel free to connect with me :)</h2>
+  <h2>Feel free to connect with me </h2>
 </p>
 </p>
 <p align="center">
@@ -13,16 +13,23 @@
   </a>
 </p>
 
-## A Little About Me and My Interests
+## ALL ABOUT ME
 ```yaml
-name = Jessica Abt
+name: Jessica Abt
 
 school: "University of Texas at Austin"
 major: "Neuroscience"
 certificate: "Programming and Computation"
 
-fieldsOfInterest: ["Computational Neuroscience", "Neurodevelopment", "Mental Health Awareness", "Game Development"]
+fieldsOfInterest:
+  [
+    "Computational Neuroscience 💻",
+    "Neurodevelopment 🧠",
+    "Mental Health Awareness 💌",
+    "Game Development 🎮"
+  ]
 
-hobbyHiking: "Give me National and TX State Park Recs!"
-hobbyPhotography: "Check out jessicaabtphotography.com"
-hobbyEntertainment: "I loooveee Minecraft, Criminal Minds, and long Youtube videos!"
+hobbyHiking: "Give me National and TX State Park Recs! 🥾🌳"
+hobbyCoffee: "I recently have been discovering soooo many coffee recipes with my new machine! ☕"
+hobbyPhotography: "Check out jessicaabtphotography.com! 📸"
+hobbyEntertainment: "I loooveee Minecraft, Criminal Minds, and long Youtube videos! 🎞️"
