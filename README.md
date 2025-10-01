@@ -1,7 +1,7 @@
 <<img width="1337" height="501" alt="github-header-banner" src="https://github.com/user-attachments/assets/23936188-b2af-493f-827c-bae3c0f06c96" />
 
 <p align="center">
-  <h2> ────── ⋆⋅☆⋅⋆ CONNECT WITH ME ⋆⋅☆⋅⋆ ────── </h2>
+  <h> ────── ⋆⋅☆⋅⋆ CONNECT WITH ME ⋆⋅☆⋅⋆ ────── </h>
 </p>
 </p>
 <p align="center">
