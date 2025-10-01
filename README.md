@@ -1,7 +1,7 @@
 <<img width="1337" height="501" alt="github-header-banner" src="https://github.com/user-attachments/assets/23936188-b2af-493f-827c-bae3c0f06c96" />
 
 <p align="center">
-  <h> ────── ⋆⋅☆⋅⋆ CONNECT WITH ME ⋆⋅☆⋅⋆ ────── </h>
+  <h2> ────── ⋆⋅☆⋅⋆ CONNECT WITH ME ⋆⋅☆⋅⋆ ────── </h2>
 </p>
 </p>
 <p align="center">
@@ -12,8 +12,10 @@
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
   </a>
 </p>
+<p align="center">
+  <h2> ────── ⋆⋅☆⋅⋆ ALL ABOUT ME ⋆⋅☆⋅⋆ ────── </h2
 
-## ────── ⋆⋅☆⋅⋆ ALL ABOUT ME ⋆⋅☆⋅⋆ ──────
+##
 ```yaml
 name: Jessica Abt
 
