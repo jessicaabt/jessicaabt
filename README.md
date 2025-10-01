@@ -31,8 +31,13 @@ certificate: "Programming and Computation"
 
 currLanguages:
   {
-    "Java":7,
-    "Python":5,
+    "Java": 7,
+    "Python": 5,
+    "HTML": 4,
+    "GDScript": 3,
+    "C++": 2,
+    "C#": 3,
+    "C": 2,
   }
   # scaled 0 (beginner) - 10 (master)
 
