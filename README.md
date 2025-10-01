@@ -48,6 +48,7 @@ fieldsOfInterest:
     "Mental Health Awareness 💌",
     "Game Development 🎮",
   ]
+  # not limited — i've only worked on so much and i am very open to new things!
 
 hobbies:
   [
