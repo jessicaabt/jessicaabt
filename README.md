@@ -1,10 +1,10 @@
-<<img width="1337" height="501" alt="github-header-banner" src="https://github.com/user-attachments/assets/23936188-b2af-493f-827c-bae3c0f06c96" />
+<img width="2100" height="525" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/fdb0ec1d-1b9b-4067-bed2-43a0649b84b1" />
 
 <p align="center">
   <h2> ────── ⋆⋅☆⋅⋆ CONNECT WITH ME </h2>
 </p>
 </p>
-<p align="center" style="display: flex; justify-content: center; gap: 15px;">
+<p align="left">
   <a href="https://www.instagram.com/jessica.abtt/" style="text-decoration: none;">
     <img width="64" height="64" alt="Instagram icon" src="https://github.com/user-attachments/assets/7089eaa4-9d75-442e-9bd4-f3177e1b5b9e" />
   </a>
