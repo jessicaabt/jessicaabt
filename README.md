@@ -1,19 +1,19 @@
 <<img width="1337" height="501" alt="github-header-banner" src="https://github.com/user-attachments/assets/23936188-b2af-493f-827c-bae3c0f06c96" />
 
 <p align="center">
-  <h2> ────── ⋆⋅☆⋅⋆ CONNECT WITH ME ⋆⋅☆⋅⋆ ────── </h2>
+  <h2> ────── ⋆⋅☆⋅⋆ CONNECT WITH ME </h2>
 </p>
 </p>
 <p align="center">
   <a href="https://www.instagram.com/jessica.abtt/">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-1024.png"/>
+    <img width="64" height="64" alt="1856379_circled_instagram_media_network_social_icon" src="https://github.com/user-attachments/assets/2dbdfd83-b4de-4443-a6ca-2862f49ecad3" />
 </a>
   <a href="https://www.linkedin.com/in/jessicaabt/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
+    <img width="64" height="64" alt="1856391_circled_linked in_linkedin_media_network_icon" src="https://github.com/user-attachments/assets/ae14973a-15d5-42cd-9009-54c12e7d7cc9" />
   </a>
 </p>
 <p align="center">
-  <h2> ────── ⋆⋅☆⋅⋆ ALL ABOUT ME ⋆⋅☆⋅⋆ ────── </h2
+  <h2> ────── ⋆⋅☆⋅⋆ ALL ABOUT ME </h2
 
 ##
 ```yaml
