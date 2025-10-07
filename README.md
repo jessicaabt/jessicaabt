@@ -58,5 +58,5 @@ hobbies:
     entertainment: "I loooveee Minecraft, Criminal Minds, and long Youtube videos! 🎞️"
   ]
 ```
-  <h2> ────── ⋆⋅☆⋅⋆ LANGUAGE STATISTICS </h2
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaabt
+  <h2> ────── ⋆⋅☆⋅⋆ LANGUAGE STATISTICS </h2>
+  ![Public Repository Stats](https://github-readme-stats.vercel.app/api?username=jessicaabt&show_icons=true&theme=vue-dark)
