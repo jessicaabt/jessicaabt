@@ -36,8 +36,7 @@ currLanguages:
     "HTML": 4,
     "GDScript": 3,
     "C++": 2,
-    "C#": 3,
-    "C": 2,
+    "CSS": 2,
   }
   # scaled 0 (beginner) - 10 (master)
 
