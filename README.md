@@ -59,4 +59,14 @@ hobbies:
   ]
 ```
   <h2> ────── ⋆⋅☆⋅⋆ LANGUAGE STATISTICS </h2>
-  ![Public Repository Stats](https://github-readme-stats.vercel.app/api?username=jessicaabt&show_icons=true&theme=vue-dark)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jessicaabt&show_icons=true&theme=vue-dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jessicaabt&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
