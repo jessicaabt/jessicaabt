@@ -1,36 +1,7 @@
-##
-```yaml
-name: Jessica Abt
+neuro + cs @ ut austin
 
-school: "University of Texas at Austin"
-major: "Neuroscience"
-certificate: "Programming and Computation"
+interested in circuit-level mechanisms underlying behavior and how environmental factors shape neurodevelopmental and psychiatric disorders.
 
-currLanguages:
-  {
-    "Java": 7,
-    "Python": 5,
-    "HTML": 4,
-    "GDScript": 3,
-    "C++": 2,
-    "CSS": 2,
-  }
-  # scaled 0 (beginner) - 10 (master)
+learning more about the intersection of computational modeling and data analysis.
 
-fieldsOfInterest:
-  [
-    "Computational Neuroscience 💻",
-    "Neurodevelopment 🧠",
-    "Mental Health Awareness 💌",
-    "Game Development 🎮",
-  ]
-  # not limited — i've only worked on so much and i am very open to new things!
-
-hobbies:
-  [
-    hiking: "Give me National and TX State Park Recs! 🥾🌳"
-    coffee: "I recently have been discovering soooo many coffee recipes with my new machine! ☕"
-    photography: "Check out jessicaabtphotography.com! 📸"
-    entertainment: "I loooveee Minecraft, Criminal Minds, and long Youtube videos! 🎞️"
-  ]
-```
+reachable at jessicaabt [at] utexas [dot] edu :)
